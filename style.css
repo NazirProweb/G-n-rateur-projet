@@ -1,0 +1,29 @@
+html, body {
+    background: linear-gradient(to right, #08ffd6, #08ffd6, #08ffd6);
+    height: 100%;
+    min-width: 200px;
+  }
+  
+  #citation {
+    font-size: 1.5em;
+    font-family: 'Satisfy', curve;
+    line-height: 1.3em;
+    letter-spacing: 1px;
+  }
+  
+  
+  #auteur {
+    font-size: 1.5em;
+    font-style: italic;
+  }
+  
+  #nouveau {
+    background: #046895;
+    cursor: pointer;
+  }
+  footer{
+      font-size: 20px;
+      bottom: 10px;
+      padding: 25;
+  }
+  
